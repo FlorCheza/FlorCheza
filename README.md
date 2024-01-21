@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+me,+Flor)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently work as a career coach and have a background as an IT recruiter. I am also a volunteer in the Argentinian Society of Artificial Intelligence (SAIA) in the people team.

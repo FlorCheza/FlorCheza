@@ -13,7 +13,7 @@
 - 👯 While I have some knowledge in Data Studio and Power BI, I haven't had the opportunity to practice them yet.
 - 🤔 I'm curious and a bit of a nerd, which led me to take courses on gamification and effective communication after graduating with a degree in Psychology from the University of Buenos Aires.
 - 💬 I'm interested in IA, psychology and the tech world in general
-- 📫 You can reach me at fechezarreta@soyhenry.com or florencia.echezarreta@saia.ar. 
+- 📫 You can reach me at florencia.echezarreta1@gmail.com or florencia.echezarreta@saia.ar. 
 
 
 <p>Connect with me on

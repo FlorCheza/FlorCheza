@@ -9,7 +9,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently work as a career coach and have a background as an IT recruiter. I am also a volunteer in the Argentinian Society of Artificial Intelligence (SAIA) in the people team.
-- 🌱 I am about to start a Data Science course in March 2024.
+- 🌱 I am studing Data Science. I'm in the 1st year.
 - 👯 While I have some knowledge in Data Studio and Power BI, I haven't had the opportunity to practice them yet.
 - 🤔 I'm curious and a bit of a nerd, which led me to take courses on gamification and effective communication after graduating with a degree in Psychology from the University of Buenos Aires.
 - 💬 I'm interested in IA, psychology and the tech world in general
